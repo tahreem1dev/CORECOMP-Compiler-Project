@@ -69,19 +69,6 @@ tests/sample_redeclare.core → Checks variable redeclaration errors
 tests/sample_undeclared.core → Checks for undeclared variable usage
 tests/sample_typemismatch.core → Checks for type mismatch errors
 
-Project Status
-
-All compiler phases fully implemented and verified
-Lexical, syntax, semantic, intermediate code, optimization, and code generation phases working correctly
-Test programs cover redeclaration, undeclared variables, and type mismatch
-Project complete, functional, and ready for academic evaluation
-
-Key Highlights
-
-Developed for educational purposes, focusing on clarity and concept demonstration
-CoreLang syntax simple to highlight compiler construction principles
-Symbol tables, semantic validation, and intermediate code fully demonstrated
-Designed for easy understanding of compiler workflow
 
 Sample Test Programs
 • tests/sample_correct.core -> Fully valid program
