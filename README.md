@@ -55,14 +55,14 @@ CORECOMP implements the compiler phases in a simple and effective way:
 2. Run the main compiler:
   ```bash
    python main.py
-4. For semantic testing only:
+For semantic testing only:
      
    python -m tests.test_semantic_runner
 
 
     
 
-- Output will show which test programs passed semantic checks and which failed.
+  Output will show which test programs passed semantic checks and which failed.
 
 ## Sample Test Programs
 - tests/sample_correct.core → Fully valid program
