@@ -52,8 +52,8 @@ CORECOMP implements the compiler phases in a simple and effective way:
 
 ## How to Run
 1. Open terminal in the **CORECOMP root folder**.  
-2. Run the main compiler:  
-```bash
+2. Run the main compiler:
+   
 python main.py
 
 For semantic testing only:
@@ -78,5 +78,6 @@ Sample Test Programs
 - CoreLang syntax simple to highlight compiler construction principles
 - Symbol tables, semantic validation, and intermediate code fully demonstrated
 - Designed for easy understanding of compiler workflow
+
 
 
