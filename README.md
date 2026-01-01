@@ -53,7 +53,7 @@ CORECOMP implements the compiler phases in a simple and effective way:
 ## How to Run
 1. Open terminal in the **CORECOMP root folder**.  
 2. Run the main compiler:
-  ```bash
+   ```bash
    python main.py
 
 For semantic testing only:
