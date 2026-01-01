@@ -59,7 +59,7 @@ CORECOMP implements the compiler phases in a simple and effective way:
 
 For semantic testing only:
 
-   python -m tests.test_semantic_runner
+python -m tests.test_semantic_runner
 
      
 
