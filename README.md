@@ -40,15 +40,15 @@ CORECOMP implements the compiler phases in a simple and effective way:
 
   CORECOMP/
   │
-• ├── lexer/ # Lexical analyzer
-• ├── parser/ # Syntax analyzer
-• ├── semantic/ # Semantic analyzer
-• ├── icg/ # Intermediate code generator
-• ├── optimizer/ # Code optimizer
-• ├── codegen/ # Final code generator
-• ├── tests/ # Test programs for semantic and other phase checks
-• ├── main.py # Compiler driver (runs complete pipeline)
-• └── README.md # Project overview & instructions
+  ├── lexer/ # Lexical analyzer
+  ├── parser/ # Syntax analyzer
+  ├── semantic/ # Semantic analyzer
+  ├── icg/ # Intermediate code generator
+  ├── optimizer/ # Code optimizer
+  ├── codegen/ # Final code generator
+  ├── tests/ # Test programs for semantic and other phase checks
+  ├── main.py # Compiler driver (runs complete pipeline)
+  └── README.md # Project overview & instructions
 
 ## How to Run
 1. Open terminal in the **CORECOMP root folder**.  
