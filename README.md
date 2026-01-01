@@ -57,17 +57,19 @@ CORECOMP implements the compiler phases in a simple and effective way:
    python main.py
 
 For semantic testing only:
-    python -m tests.test_semantic_runner
+
+   python -m tests.test_semantic_runner
+
 
     
 
 Output will show which test programs passed semantic checks and which failed.
 
 ## Sample Test Programs
-• tests/sample_correct.core -> Fully valid program
-• tests/sample_redeclare.core -> Checks variable redeclaration errors
-• tests/sample_undeclared.core -> Checks for undeclared variable usage
-• tests/sample_typemismatch.core -> Checks for type mismatch errors
+- tests/sample_correct.core → Fully valid program
+- tests/sample_redeclare.core → Checks variable redeclaration errors
+- tests/sample_undeclared.core → Checks for undeclared variable usage
+- tests/sample_typemismatch.core → Checks for type mismatch errors
 
 
 ## Project Status
