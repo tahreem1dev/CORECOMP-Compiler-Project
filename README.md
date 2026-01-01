@@ -57,7 +57,8 @@ CORECOMP implements the compiler phases in a simple and effective way:
    python main.py
 
 For semantic testing only:
-```bash python -m tests.test_semantic_runner
+   ``
+   python -m tests.test_semantic_runner
 
      
 
