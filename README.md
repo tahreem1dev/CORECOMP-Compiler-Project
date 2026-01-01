@@ -66,13 +66,16 @@ Sample Test Programs
 • tests/sample_undeclared.core -> Checks for undeclared variable usage
 • tests/sample_typemismatch.core -> Checks for type mismatch errors
 
-Project Status
+
+## Project Status
+
 • All compiler phases are fully implemented and verified.
 • Lexical, syntax, semantic, intermediate code, optimization, and code generation phases work correctly.
 • Test programs cover redeclaration, undeclared variables, and type mismatch scenarios.
 • The project is complete, functional, and ready for academic evaluation.
 
-Key Highlights
+## Key Highlights
+
 • Developed for educational purposes, focusing on clarity and concept demonstration
 • CoreLang syntax simple to highlight compiler construction principles
 • Symbol tables, semantic validation, and intermediate code fully demonstrated
