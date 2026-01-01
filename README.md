@@ -63,7 +63,6 @@ python -m tests.test_semantic_runner
 
      
 
-
 Output will show which test programs passed semantic checks and which failed.
 
 ## Sample Test Programs
